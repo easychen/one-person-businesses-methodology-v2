@@ -5,11 +5,7 @@
         - [一人企业的定义](chapter_001/section_001/paragraph_001.md)
         - [一人企业的规模](chapter_001/section_001/paragraph_002.md)
         - [一人企业的特点](chapter_001/section_001/paragraph_003.md)
-    - [一人企业的优势](chapter_001/section_002_一人企业的优势.md)
-        - [个体时代的到来](chapter_001/section_002/paragraph_001.md)
-        - [回归商业本质](chapter_001/section_002/paragraph_002.md)
-        - [个人品牌优势](chapter_001/section_002/paragraph_003.md)
-
+    
 - [规划一人企业](chapter_002/README.md)
     - [一人企业的优势](chapter_002/section_001_一人企业的优势.md)
         - [个体时代的到来](chapter_002/section_001/paragraph_001.md)
