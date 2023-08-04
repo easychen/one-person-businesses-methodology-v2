@@ -6,7 +6,7 @@
 - 封面和插图生成：[自己搭的 StableDiffusion XL API2D版](https://s.level06.com)
 
 - 字数：28590
-- 用时：2天（生成长文比较慢，于是一边生成一边配图）
+- 用时：陆陆续续，加起来大概花了两三个工作日吧（生成长文比较慢，于是一边生成一边配图）
 - 背景故事： [#方糖2A1B实验#](https://fd.app.ftqq.com/web/timelines/tag/%E6%96%B9%E7%B3%962A1B%E5%AE%9E%E9%AA%8C) 
 
 # 一本AI写的书
