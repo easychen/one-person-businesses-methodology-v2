@@ -1,1 +1,3 @@
-# one-person-businesses-methodology-v2
+# 一人企业方法论
+
+![](src/images/20230804111939.png)

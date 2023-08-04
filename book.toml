@@ -4,3 +4,4 @@ language = "zh-cn"
 multilingual = false
 src = "src"
 title = "一人企业方法论"
+cover = "cover-w-title.png"
