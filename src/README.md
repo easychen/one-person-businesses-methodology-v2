@@ -1,5 +1,7 @@
 ![](images/cover-w-title.png)
 
+> ⚠️ 这是一本由人类撰写思维导图和目录，由AI撰写章节内容的小书
+
 - 思维导图和目录：[Easy](https://fd.app.ftqq.com/@easy)
 - 封面和插图提示词撰写、封面添加书名：[Easy](https://fd.app.ftqq.com/@easy)
 - 文章撰写： [Claude2](https://claude.ai/)
@@ -23,7 +25,7 @@
 
 ### 撰写大纲
 
-首先我撰写了思维导图，你可以在 GitHub 仓库中找到高清的PDF版本。
+首先我撰写了思维导图，你可以在[GitHub仓库中找到高清的PDF版本](https://github.com/easychen/one-person-businesses-methodology-v2/blob/master/%E3%80%8A%E4%B8%80%E4%BA%BA%E4%BC%81%E4%B8%9A%E6%96%B9%E6%B3%95%E8%AE%BA%E3%80%8Bmap.pdf)。
 
 ![](images/20230804125535.png)
 
@@ -88,7 +90,9 @@
 
 ### 生成配图
 
-大量的图文读起来很烦闷，于是我用 StableDiffusion XL 生成了文章的封面和配图。SDXL 的质量和预置风格我觉得很好，用[DreamStudio](https://dreamstudio.ai/) 可以免费生成几十张。用完了免费额度后就要付费了，有点小浪费的是最低充值10美金，所以后来我就改用自己搭的[直接用API2D的Key的版本](https://s.level06.com/)了。
+大量的图文读起来很烦闷，于是我用 StableDiffusion XL 生成了文章的封面和配图。
+
+SDXL 的质量和预置风格我觉得很好，用[DreamStudio](https://dreamstudio.ai/) 可以免费生成几十张。用完了免费额度后就要付费了，有点小浪费的是最低充值10美金，所以后来我就改用自己搭的[直接用API2D的Key的版本](https://s.level06.com/)了。
 
 ![](images/20230804131515.png)
 
